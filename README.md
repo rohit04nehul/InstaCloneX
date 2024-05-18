@@ -1,4 +1,4 @@
-**InstaCloneX Read Me**
+**InstaCloneX**
 
 **Introduction:**
 InstaCloneX is a web application that emulates the core features of Instagram, allowing users to sign up, log in, post photos, follow other users, like and comment on posts, and explore content from other users. It is built using HTML, CSS, JavaScript, and the MERN (MongoDB, Express.js, React.js, Node.js) stack.
