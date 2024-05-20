@@ -1,7 +1,7 @@
-**InstaCloneX**
+**InstaFusion**
 
 **Introduction:**
-InstaCloneX is a web application that emulates the core features of Instagram, allowing users to sign up, log in, post photos, follow other users, like and comment on posts, and explore content from other users. It is built using HTML, CSS, JavaScript, and the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+InstaFusion is a web application that emulates the core features of Instagram, allowing users to sign up, log in, post photos, follow other users, like and comment on posts, and explore content from other users. It is built using HTML, CSS, JavaScript, and the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
 **Features:**
 1. **User Authentication:** Users can sign up with a unique username and password, and log in securely to access their account.
@@ -17,13 +17,13 @@ InstaCloneX is a web application that emulates the core features of Instagram, a
 - **Database:** MongoDB
 
 **Setup Instructions:**
-1. **Clone the Repository:** Clone the InstaCloneX repository to your local machine using the following command:
+1. **Clone the Repository:** Clone the InstaFusion repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/InstaCloneX.git
+   git clone https://github.com/your-username/InstaFusion.git
    ```
 2. **Install Dependencies:** Navigate to the project directory and install the dependencies for both the frontend and backend:
    ```
-   cd InstaCloneX
+   cd InstaFusion
    cd frontend
    npm install
    cd ../backend
@@ -38,14 +38,14 @@ InstaCloneX is a web application that emulates the core features of Instagram, a
    ```
 5. **Start the Application:** In separate terminal windows, start the frontend and backend servers:
    ```
-   cd InstaCloneX/frontend
+   cd InstaFusion/frontend
    npm start
    ```
    ```
-   cd InstaCloneX/backend
+   cd InstaFusion/backend
    npm start
    ```
-6. **Access the Application:** Open your web browser and navigate to `http://localhost:3000` to access InstaCloneX.
+6. **Access the Application:** Open your web browser and navigate to `http://localhost:3000` to access InstaFusion.
 
 **Contributing:**
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
